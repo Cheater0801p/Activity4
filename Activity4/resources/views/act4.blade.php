@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Navigation Bar Activity4</title>
-    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="style.css">
     <script defer src="script.js"></script>
 </head>
 <body>
@@ -27,6 +27,6 @@
     </nav>
 
     <!-- script -->
-     <script src="{{ asset('assets/js/acti4.js') }}"></script>
+     <script src="{{ asset('assets/js/act4.js') }}"></script>
 </body>
 </html>
